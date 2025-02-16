@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Network Security IR Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "network-ir-lab"
   type = "Lab"
 }
 
@@ -24,12 +24,21 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.exercise
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
+      mls.attacksAndImpacts
+      mls.designingAnIr
+      mls.investigatingIncident
+      mls.prepareAndPresent
+    }
+  }
+    new {
+    // Do not remove this fallback course!
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.attacksAndImpacts
+      mls.designingAnIr
+      mls.investigatingIncident
+      mls.prepareAndPresent
     }
   }
 }
