@@ -1,22 +1,16 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Network Security IR Lab</span>
 </h1>
-
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, students develop a comprehensive incident response plan tailored to a specific network attack method of their choosing. They investigate a simulated incident using their plan, gathering evidence and analyzing the attack to determine its root causes and impacts. Students then recommend and present preventative measures to strengthen their organization's network defenses based on the lessons learned from the incident.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md)
+- [Attack Methods and Their Impacts](../attack-and-impact/README.md)
+- [Designing an Incident Response (IR) Plan](../designing-an-IR/README.md)
+- [Investigating the Incident](../investigating-the-incident/README.md)
+- [Prepare and Present Your IR Plan](../prepare-and-present/README.md)
