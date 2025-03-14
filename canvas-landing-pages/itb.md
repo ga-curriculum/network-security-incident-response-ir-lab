@@ -11,7 +11,7 @@ Finally, you'll recommend and present preventative measures to strengthen their 
 
 ## Content
 
-- [Attack Methods and Their Impacts](../attack-methods-and-their-impact/README.md)
+- [Attack Methods and Their Impacts](../attack-methods-and-their-impacts/README.md)
 - [Designing an IR Plan](../designing-an-ir-plan/README.md)
 - [Investigating the Incident](../investigating-the-incident/README.md)
 - [Prepare and Present Your IR Plan](../prepare-and-present-your-ir-plan/README.md)
