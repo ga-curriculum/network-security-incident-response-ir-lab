@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Network Security IR Lab",
-    "name": "network-ir-lab",
+    "friendlyName": "Network Security Incident Response (IR) Lab",
+    "name": "network-security-incident-response-ir-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Attack Methods and Their Impacts",
-          "dirName": "attack-and-impact",
+          "dirName": "attack-methods-and-their-impacts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -31,7 +31,7 @@
         },
         {
           "friendlyName": "Designing an Incident Response (IR) Plan",
-          "dirName": "designing-an-IR",
+          "dirName": "designing-an-incident-response-plan",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -51,7 +51,7 @@
         },
         {
           "friendlyName": "Prepare and Present Your IR Plan",
-          "dirName": "prepare-and-present",
+          "dirName": "prepare-and-present-your-ir-plan",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -83,14 +83,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Attack Methods and Their Impacts",
-          "dirName": "attack-and-impact",
+          "dirName": "attack-methods-and-their-impacts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -100,7 +100,7 @@
         },
         {
           "friendlyName": "Designing an Incident Response (IR) Plan",
-          "dirName": "designing-an-IR",
+          "dirName": "designing-an-incident-response-plan",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -120,7 +120,7 @@
         },
         {
           "friendlyName": "Prepare and Present Your IR Plan",
-          "dirName": "prepare-and-present",
+          "dirName": "prepare-and-present-your-ir-plan",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

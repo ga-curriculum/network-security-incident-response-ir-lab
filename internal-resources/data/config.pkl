@@ -12,33 +12,33 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Network Security IR Lab"
+  friendlyName = "Network Security Incident Response (IR) Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "network-ir-lab"
+  name = "network-security-incident-response-ir-lab"
   type = "Lab"
 }
 
 courses {
   new {
     // Do not remove this fallback course!
-    name = "fallback"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.attacksAndImpacts
-      mls.designingAnIr
-      mls.investigatingIncident
-      mls.prepareAndPresent
-    }
-  }
-    new {
-    // Do not remove this fallback course!
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.attacksAndImpacts
-      mls.designingAnIr
-      mls.investigatingIncident
-      mls.prepareAndPresent
+      mls.attackMethodsAndTheirImpacts
+      mls.designingAnIrPlan
+      mls.investigatingTheIncident
+      mls.prepareAndPresentYourIrPlan
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.attackMethodsAndTheirImpacts
+      mls.designingAnIrPlan
+      mls.investigatingTheIncident
+      mls.prepareAndPresentYourIrPlan
     }
   }
 }

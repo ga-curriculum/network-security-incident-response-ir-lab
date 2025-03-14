@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Network Security IR Lab</span>
-  <span class="subhead">Designing an Incident Response (IR) Plan</span>
+  <span class="headline">Network Security Incident Response (IR) Lab</span>
+  <span class="subhead">Designing an IR Plan</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to develop a comprehensive incident response plan tailored to the chosen attack method.

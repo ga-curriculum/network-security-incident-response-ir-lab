@@ -2,31 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-attacksAndImpacts = new Template.Microlesson {
+attackMethodsAndTheirImpacts = new Template.Microlesson {
   friendlyName = "Attack Methods and Their Impacts"
-  dirName = "attack-and-impact"
+  dirName = "attack-methods-and-their-impacts"
   type = "Content"
   videoUrl = ""
 }
 
-designingAnIr = new Template.Microlesson {
+designingAnIrPlan = new Template.Microlesson {
   friendlyName = "Designing an Incident Response (IR) Plan"
-  dirName = "designing-an-IR"
+  dirName = "designing-an-incident-response-plan"
   type = "Content"
   videoUrl = ""
 }
 
-investigatingIncident = new Template.Microlesson {
+investigatingTheIncident = new Template.Microlesson {
   friendlyName = "Investigating the Incident"
   dirName = "investigating-the-incident"
   type = "Content"
   videoUrl = ""
 }
 
-prepareAndPresent = new Template.Microlesson {
+prepareAndPresentYourIrPlan = new Template.Microlesson {
   friendlyName = "Prepare and Present Your IR Plan"
-  dirName = "prepare-and-present"
+  dirName = "prepare-and-present-your-ir-plan"
   type = "Content"
   videoUrl = ""
 }
-

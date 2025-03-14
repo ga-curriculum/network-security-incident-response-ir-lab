@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Network Security IR Lab</span>
+  <span class="headline">Network Security Incident Response (IR) Lab</span>
   <span class="subhead">Investigating the Incident</span>
 </h1>
 
