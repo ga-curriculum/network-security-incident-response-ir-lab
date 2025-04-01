@@ -5,7 +5,7 @@
 
 ## About
 
-In this lab, you'll develop a comprehensive incident response (IR) plan tailored to a specific network attack method of your choice. You'll investigate a simulated incident using their plan, gathering evidence and analyzing the attack to determine its root causes and impacts.
+In this lab, you'll develop a comprehensive incident response (IR) plan tailored to a specific network attack method of your choice. You'll investigate a simulated incident, gathering evidence and analyzing the attack to determine its root causes and impacts.
 
 Finally, you'll recommend and present preventative measures to strengthen their organization's network defenses based on the lessons learned from the incident.
 
