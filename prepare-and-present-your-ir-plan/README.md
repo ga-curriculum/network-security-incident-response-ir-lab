@@ -3,7 +3,7 @@
   <span class="subhead">Prepare and Present Your IR Plan</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to prepare and deliver a presentation on your incident response plan, highlighting the key steps, rationale, and expected outcomes
+**Learning objective:** By the end of this lesson, students will be able to prepare and deliver a presentation on your incident response plan, highlighting the key steps, rationale, and expected outcomes.
 
 ## Preparing your presentation
 
